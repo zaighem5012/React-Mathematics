@@ -1,0 +1,22 @@
+.multi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input[type="number"] {
+    border: none;
+    border-bottom: 2px solid #948383;
+    background: transparent;
+    outline: none;
+    color: white;
+    width: 70px;
+    height: 20px;
+    text-align: center;
+}
+.btn-check{
+    outline: none;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    background: #757575;
+    color: white;
+}

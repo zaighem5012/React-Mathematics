@@ -1,0 +1,64 @@
+{
+ "Qdata" : [
+    {
+        "qnbr": "a).",
+        "question1": 12,
+        "question2": 13
+    },
+    {
+        "qnbr": "b).",
+        "question1": 25,
+        "question2": 15
+    },
+    {
+        "qnbr": "c).",
+        "question1": 52,
+        "question2": 53
+    },
+    {
+        "qnbr": "d).",
+        "question1": 54,
+        "question2": 25
+    },
+    {
+        "qnbr": "e).",
+        "question1": 24,
+        "question2": 25
+    },
+    {
+        "qnbr": "f).",
+        "question1": 20,
+        "question2": 56
+    },
+    {
+        "qnbr": "g).",
+        "question1": 22,
+        "question2": 13
+    },
+    {
+        "qnbr": "h).",
+        "question1": 12,
+        "question2": 15
+    },
+    {
+        "qnbr": "i).",
+        "question1": 17,
+        "question2": 58
+    },
+    {
+        "qnbr": "j). ",
+        "question1": 89,
+        "question2": 47
+    },
+    {
+        "qnbr": "k).",
+        "question1": 96,
+        "question2": 18
+    },
+    {
+        "qnbr": "l).",
+        "question1": 59,
+        "question2": 28
+    }
+]
+}

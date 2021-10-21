@@ -1,0 +1,20 @@
+.active {
+    background-color: #b2a8a8 !important;
+    color: black;
+    border: 1px solid #b2a8a8;
+}
+
+.show {
+   display: block;
+   color: black;
+}
+
+.hide {
+    display: none !important;
+}
+.show:hover{
+    color: darkmagenta;
+}
+button{
+    margin: 0 auto;
+}

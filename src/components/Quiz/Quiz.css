@@ -1,0 +1,7 @@
+.hey{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    max-width: 600px;
+    margin: 0 auto;
+    background: #403d387a;
+}

@@ -1,0 +1,23 @@
+/* ----------header------------ */
+/* header {
+    display: flex !important;
+    justify-content: space-around !important;
+    align-items: center !important;
+    background-color: #acc2d8;
+    height: 70px;
+}
+.path{
+    text-decoration: none;
+    color: black;
+}
+.list ul{
+    display: flex ;
+    margin: 0 auto;
+}
+.list li {
+    list-style: none;
+    margin-right: 40px;
+}
+.list li:nth-child(4) {
+    margin-right:0px;
+} */

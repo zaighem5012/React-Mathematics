@@ -1,0 +1,16 @@
+.div{
+    height: 66px;
+    width: 188px;
+    background-color: transparent;
+    font-family: trebuchet;
+    font-size: 56px;
+    text-align: left;
+    vertical-align: top;
+    overflow: hidden;
+    border-top: 4px solid black;
+}
+.line{
+    background-color: transparent;
+    border-top: 2px solid black;
+    position: absolute;
+}
